@@ -14,5 +14,4 @@ by [MikroTik](https://mikrotik.com/aboutus) for networking tasks. This
 repository holds a number of [scripts](https://wiki.mikrotik.com/wiki/Manual:Scripting)
 to manage RouterOS devices or extend their functionality.
 
-*Use at your own risk*, pay attention to
-[license and warranty](#license-and-warranty)!
+*Use at your own risk*
