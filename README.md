@@ -1,4 +1,4 @@
-RouterOS Scripts
+MikroTik Scripts
 ================
 
 [![GitHub stars](https://img.shields.io/github/stars/ChildOTK/Mikrotik-Scripts?logo=GitHub&style=flat&color=red)](https://github.com/ChildOTK/Mikrotik-Scripts/stargazers)
